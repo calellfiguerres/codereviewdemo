@@ -1,7 +1,5 @@
 # CS322 Code Reviews
 
-
-
 ## Getting started
 
 This project will be cloned by teams of ~4 and will require active collaboration, discussion, and effort from
