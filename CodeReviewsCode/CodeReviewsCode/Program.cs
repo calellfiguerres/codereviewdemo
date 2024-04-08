@@ -34,6 +34,7 @@
             Console.WriteLine($"Function2 Output: {outputTwo.ToString()}");
             Console.WriteLine($"Function3 Output: {outputThree.ToString()}");
             Console.WriteLine($"Function4 Output: {outputFour.ToString()}");
+                
         }
     }
 }
