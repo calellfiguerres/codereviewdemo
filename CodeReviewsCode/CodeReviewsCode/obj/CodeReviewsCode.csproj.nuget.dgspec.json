@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj": {}
+    "C:\\Users\\jchad\\OneDrive\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj": {
+    "C:\\Users\\jchad\\OneDrive\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj",
+        "projectUniqueName": "C:\\Users\\jchad\\OneDrive\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj",
         "projectName": "CodeReviewsCode",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj",
-        "packagesPath": "C:\\Users\\joshuachadwick\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\obj\\",
+        "projectPath": "C:\\Users\\jchad\\OneDrive\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\CodeReviewsCode.csproj",
+        "packagesPath": "C:\\Users\\jchad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jchad\\OneDrive\\Desktop\\Spring 2024\\CS 321\\cs322-code-reviews\\CodeReviewsCode\\CodeReviewsCode\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\joshuachadwick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jchad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
