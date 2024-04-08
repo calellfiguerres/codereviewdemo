@@ -9,7 +9,7 @@ Follow the code reviews checklist and properly review each person's merge reques
 of a merge request. There should be **ONE** main person who reviews your code and approves the merge request,
 but any team member can comment and make suggestions for improvement.
 
-[**General Guideline Code Review Checklist:**](https://github.com/mgreiler/code-review-checklist)
+[**General Guideline Code Review Checklist**](https://github.com/mgreiler/code-review-checklist)
 
 ## Collaborate with your team
 
