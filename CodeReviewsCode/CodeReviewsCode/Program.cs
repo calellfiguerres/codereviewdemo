@@ -7,6 +7,9 @@
         static void Main(string[] args)
         {
             Function1 function1 = new Function1();
+            Function2 function2 = new Function2();
+            Function3 function3 = new Function3();
+            Function4 function4 = new Function4();
             int userInput = 0;
 
             // Fetching user input to use for all of the user-defined functions
